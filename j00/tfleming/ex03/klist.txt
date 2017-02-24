@@ -1,0 +1,9 @@
+Credentials cache: API:11309
+        Principal: tfleming@42.FR
+
+  Issued                Expires               Principal
+Aug 27 13:19:12 2014  Aug 27 23:18:56 2014  krbtgt/42.FR@42.FR
+Aug 27 13:19:14 2014  Aug 27 23:18:56 2014  nfs/zfs-student-1.42.fr@42.FR
+Aug 27 13:19:18 2014  Aug 27 23:18:56 2014  nfs/zfs-student-4.42.fr@42.FR
+Aug 27 13:48:15 2014  Aug 27 23:18:56 2014  host/vogsphere-frontend-normal-1.42.fr@42.FR
+Aug 27 14:50:47 2014  Aug 27 23:18:56 2014  ldap/ldap-proxy.42.fr@42.FR
